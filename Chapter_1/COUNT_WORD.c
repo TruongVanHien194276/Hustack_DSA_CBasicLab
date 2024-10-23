@@ -1,6 +1,6 @@
 // Problem: Chapter 1 - Count words
 // Description
-// Given a Text, write a prorgam to cnt the number Q of words (ignore characters SPACE, TAB, LineBreak) of this Text
+// Given a Text, write a prorgam to count the number Q of words (ignore characters SPACE, TAB, LineBreak) of this Text
 
 // Input
 // The Text
